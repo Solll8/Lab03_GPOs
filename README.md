@@ -23,9 +23,3 @@ Create Organizational Units (OUs) and apply Group Policy Objects (GPOs) to manag
 - Verified policy application using `gpresult`
 - Confirmed settings applied on Windows 10 client
 
-## Screenshots
-- [OU structure in Active Directory](screenshots/L03-01_OU_Structure.png)
-- [GPO created in Group Policy Management](screenshots/L03-02_GPO_List.png)
-- [GPO linked to OU](screenshots/L03-03_GPO_Linked.png)
-- [Client policy verification](screenshots/L03-04_gpresult.png)
-- [View all screenshots](screenshots/)
